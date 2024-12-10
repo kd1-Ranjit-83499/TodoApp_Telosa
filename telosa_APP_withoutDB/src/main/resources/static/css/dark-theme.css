@@ -1,0 +1,8 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+}
+.navbar, .list-group-item {
+    background-color: #333333;
+    color: #ffffff;
+}
